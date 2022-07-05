@@ -1,4 +1,15 @@
+# Sorry I have to explain My problem here
+# Evalution Team please check it 
 
+  According to your email form support if group projects get rejected then group members have to submit Project  individually.
+So Technically all members will Submit the same project right. since all members have worked together on this project
+the other person who submitted the same project was my team members his mail id is lakshya02sharma@gmail.com Check it 
+Please check your database and please inform Evaluation team about same
+See now this is the 5th time I am asking the same thing now I want solution for it.
+If it is not possible please inform me then I have to complain to higher authority about It.
+Now I am tried of it Please do it as soon as possible i have to submit certificate to college.
+
+![Screenshot_20220705-093223_Gmail](https://user-images.githubusercontent.com/58596501/177250495-94dc1f05-7a3f-425a-b6d1-92555d9b2da6.jpg)
 
 # FRT Final Project Link
 
