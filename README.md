@@ -24,7 +24,7 @@ React app : Static web app
 
 # Static Web App 
 Link:
-https://calm-water-0cb836803.1.azurestaticapps.net/
+https://nice-field-0a3f9c910.1.azurestaticapps.net/
 # Api
 Link:
 https://shopnowapi.azurewebsites.net/shopnow/laptop
